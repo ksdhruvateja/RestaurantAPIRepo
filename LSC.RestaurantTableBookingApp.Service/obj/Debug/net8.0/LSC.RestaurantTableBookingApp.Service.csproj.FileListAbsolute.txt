@@ -1,0 +1,17 @@
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.AssemblyInfoInputs.cache
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.AssemblyInfo.cs
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.csproj.AssemblyReference.cache
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.deps.json
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.dll
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.pdb
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.dll
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.dll
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Core.pdb
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\bin\Debug\net8.0\LSC.RestaurantTableBookingApp.Data.pdb
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.Rest.9CC470F7.Up2Date
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.dll
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\refint\LSC.RestaurantTableBookingApp.Service.dll
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\LSC.RestaurantTableBookingApp.Service.pdb
+C:\Users\Dhruva\Documents\dhruva.restaurant\RestaurantTableBookingApp\LSC.RestaurantTableBookingApp.Service\obj\Debug\net8.0\ref\LSC.RestaurantTableBookingApp.Service.dll
